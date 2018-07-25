@@ -1,0 +1,3 @@
+#!/bin/bash
+scala tfidf.scala files/cosmos-carl-sagan-season-1/ files/trivial-words-english.txt
+
